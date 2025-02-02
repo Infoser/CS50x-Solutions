@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: I used "time" keyword as per the CS50 documentation and ran fastest on the SORTED, both, list.
+
+sort2 uses: Merge sort
+
+How do you know?: I used "time" keyword as per the CS50 documentation and it ran fastest on the RANDOM/UNSORTED list.
+
+sort3 uses: Selection sort.
+
+How do you know?:it was the slowest among all other and it was the only option left!
